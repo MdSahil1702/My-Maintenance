@@ -6,6 +6,7 @@ PayMaintenance is a Java-based application designed to streamline the payment an
 The project eliminates the need for physical record-keeping by enabling residents to pay their bills online while providing administrators with an easy way to track payments.
 
 
+
 Features
 
 Online Payment System: Residents can conveniently pay their maintenance fees through the application.
